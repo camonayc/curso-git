@@ -14,3 +14,7 @@ En este proyecto se trabajará con Git y GitHub. Se utilizará la herramienta de
 ### PASOS
 
 1. Instalar Git y GitHub en el sistema operativo utilizado.
+
+### Comentarios
+
+Este proyecto tiene como objetivo introducir al usuario a Git y GitHub, así como a la herramienta de línea de comandos. Se utilizará Git para el control de versiones de código fuente y GitHub para almacenar y compartir el código fuente. La herramienta de línea de comandos se utilizará para realizar operaciones básicas en Git, como crear un repositorio, clonar un repositorio, hacer cambios en el código fuente, y mostrar los cambios realizados.
